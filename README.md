@@ -1,9 +1,10 @@
 # Online-text-to-speech-PDF-reader
 
-<img src="https://colab.research.google.com/github/So-AI-love/Online-text-to-speech-PDF-reader/blob/main/Colab_TTS_Example.ipynb" alt="Open In Colab" data-canonical-src="https://colab.research.google.com/github/So-AI-love/Online-text-to-speech-PDF-reader/blob/main/Colab_TTS_Example.ipynb">
- 
- 
-##This is one try to reach to this site features:
+   <td>
+    <a target="_blank" href="https://colab.research.google.com/github/So-AI-love/Online-text-to-speech-PDF-reader/blob/main/Colab_TTS_Example.ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab</a>
+  </td>
+  
+## This is one try to reach to this site features:
 https://www.naturalreaders.com/online/
 
 ---
